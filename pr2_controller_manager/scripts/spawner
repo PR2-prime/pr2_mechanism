@@ -33,7 +33,7 @@
 # Author: Stuart Glaser
 
 import roslib, time
-roslib.load_manifest('pr2_controller_manager')
+#roslib.load_manifest('pr2_controller_manager')
 import rosparam
 
 import rospy, sys
